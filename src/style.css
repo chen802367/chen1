@@ -1,0 +1,15 @@
+div{
+    font-size: 20px;
+    background-color: green;
+}
+
+p{
+    color: orange;
+    border-bottom: 1px solid red;
+}
+.bg
+{
+	background-image: url("./img/2.jpg");
+	width: 500px;
+	height: 400px;
+}
